@@ -18,7 +18,7 @@ h1 {
    white-space: nowrap;
    overflow: hidden;
    height: 197px;
-   background: url('/images/star-wars-logo.jpg') no-repeat center;
+   background: url('../images/star-wars-logo.jpg') no-repeat center;
 }
 
 section {
